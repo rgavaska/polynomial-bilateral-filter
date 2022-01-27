@@ -6,9 +6,7 @@ R. G. Gavaskar and K. N. Chaudhury, "Fast Adaptive Bilateral Filtering", IEEE Tr
 
 DOI: 10.1109/TIP.2018.2871597
 
-[[Paper]](https://ieeexplore.ieee.org/document/8469064)
-
-[[arXiv]](https://arxiv.org/abs/1811.02308)
+[[IEEEXplore]](https://ieeexplore.ieee.org/document/8469064) [[arXiv]](https://arxiv.org/abs/1811.02308)
 
 Note: This code only provides the implementation for the standard (not adaptive) bilateral filter using a box spatial kernel and a Gaussian range kernel.
 
