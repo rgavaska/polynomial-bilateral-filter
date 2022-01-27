@@ -37,6 +37,7 @@ Run the code as follows:
 ./main.out <input_file> [sigma_s] [sigma_r] [N]
 ```
 where
+
 sigma_s = Half-width of box spatial filter,
 
 sigma_r = Standard deviation of Gaussian range kernel,
