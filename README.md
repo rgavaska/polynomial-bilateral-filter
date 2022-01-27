@@ -17,10 +17,13 @@ The speedup comes from approximating local histograms at every pixel by a polyno
 ### Requirements
 
 (1) C++11 or higher with a supported compiler.
+
 (2) OpenCV with C++ support.
 
 This code has been tested using:
+
 (1) G++ compiler version 9.3.0 for Ubuntu 20.04.
+
 (2) OpenCV version 4.2.0. Might work for earlier versions as well.
 
 ### Usage
@@ -35,7 +38,9 @@ Run the code as follows:
 ```
 where
 sigma_s = Half-width of box spatial filter,
+
 sigma_r = Standard deviation of Gaussian range kernel,
+
 N = Degree of polynomial.
 
 Example:
